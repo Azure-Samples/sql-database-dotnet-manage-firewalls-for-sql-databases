@@ -6,15 +6,15 @@ author: anudeepsharma
 
 #Getting Started with Sql - Manage Sql Firewall Rules - in .Net #
 
-      Azure Storage sample for managing SQL Database -
-       - Create a SQL Server along with 2 firewalls.
-       - Add another firewall in the SQL Server
-       - List all firewalls.
-       - Get a firewall.
-       - Update a firewall.
-       - Delete a firewall.
-       - Add and delete a firewall as part of update of SQL Server
-       - Delete Sql Server
+          Azure Storage sample for managing SQL Database -
+           - Create a SQL Server along with 2 firewalls.
+           - Add another firewall in the SQL Server
+           - List all firewalls.
+           - Get a firewall.
+           - Update a firewall.
+           - Delete a firewall.
+           - Add and delete a firewall as part of update of SQL Server
+           - Delete Sql Server
 
 
 ## Running this Sample ##
