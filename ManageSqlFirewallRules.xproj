@@ -7,7 +7,7 @@
 
   <Import Project="$(VSToolsPath)\DotNet\Microsoft.DotNet.Props" Condition="'$(VSToolsPath)' != ''" />
   <PropertyGroup Label="Globals">
-    <ProjectGuid>ff76dcd4-0832-4cf4-a261-47c8d7048330</ProjectGuid>
+    <ProjectGuid>1faaa2ef-bc03-48e9-af7e-d0aabe5bacee</ProjectGuid>
     <RootNamespace>ManageSqlFirewallRules</RootNamespace>
     <BaseIntermediateOutputPath Condition="'$(BaseIntermediateOutputPath)'=='' ">.\obj</BaseIntermediateOutputPath>
     <OutputPath Condition="'$(OutputPath)'=='' ">.\bin\</OutputPath>
