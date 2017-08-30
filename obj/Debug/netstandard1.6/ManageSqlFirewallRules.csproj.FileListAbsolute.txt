@@ -1,0 +1,2 @@
+C:\Sources\dotnet-samples\sql-database-dotnet-manage-firewalls-for-sql-databases\bin\Debug\netstandard1.6\ManageSqlFirewallRules.deps.json
+C:\Sources\dotnet-samples\sql-database-dotnet-manage-firewalls-for-sql-databases\obj\Debug\netstandard1.6\ManageSqlFirewallRules.csproj.CoreCompileInputs.cache
