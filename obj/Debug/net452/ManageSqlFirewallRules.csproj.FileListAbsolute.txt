@@ -1,4 +1,0 @@
-C:\Sources\dotnet-samples\sql-database-dotnet-manage-firewalls-for-sql-databases\bin\Debug\net452\ManageSqlFirewallRules.runtimeconfig.json
-C:\Sources\dotnet-samples\sql-database-dotnet-manage-firewalls-for-sql-databases\bin\Debug\net452\ManageSqlFirewallRules.runtimeconfig.dev.json
-C:\Sources\dotnet-samples\sql-database-dotnet-manage-firewalls-for-sql-databases\obj\Debug\net452\ManageSqlFirewallRules.csproj.ManageSqlFirewallRules.exe.config
-C:\Sources\dotnet-samples\sql-database-dotnet-manage-firewalls-for-sql-databases\obj\Debug\net452\ManageSqlFirewallRules.csproj.CoreCompileInputs.cache
