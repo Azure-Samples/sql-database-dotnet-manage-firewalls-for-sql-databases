@@ -2,11 +2,13 @@
 page_type: sample
 languages:
 - csharp
+- javascript
+- powershell
+- html
 products:
 - azure
-extensions:
-- services: Sql
-- platforms: dotnet
+description: "Getting started on managing firewalls for sql databases in C#"
+urlFragment: sql-database-dotnet-manage-firewalls-for-sql-databases
 ---
 
 # Getting started on managing firewalls for sql databases in C# #
