@@ -5,8 +5,8 @@ languages:
 products:
 - azure
 extensions:
-- services: Sql
-- platforms: dotnet
+  services: Sql
+  platforms: dotnet
 ---
 
 # Getting started on managing firewalls for sql databases in C# #
